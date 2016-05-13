@@ -1,5 +1,5 @@
 # start with a base image
-FROM ubuntu:14.10
+FROM ubuntu:trusty
 
 MAINTAINER Real Python <info@realpython.com>
 
